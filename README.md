@@ -1,32 +1,32 @@
-# Wekshell
+# Wekshell - excel in a shell
 
-## MATURITY: BIG WIP!
+### MATURITY: BIG WIP!
 
 ## It's an "alternative" to microsoft excel and other shreadsheet programs. It's cli based (for now) but there'll be gui impletentation of the shell in the future.
 
-### PACKAGING
+### Packaging
 
 #### Please build from source for now
 
-- [] DEB
+- [ ] DEB
 
-- [] PKGBUILD
+- [ ] PKGBUILD
 
-- [] APPIMAGE
+- [ ] APPIMAGE
 
-- [] MAC OS (DMG)
+- [ ] MAC OS (DMG)
 
-- [] WINDOWS (EXE)
+- [ ] WINDOWS (EXE)
 
 ### TODO / Feature Request List
-- [x] LACKS BASIC FUNCTIONALITIES
-- [] EVERYTHING
+- [x] Lacks basic functionalities
+- [ ] Everything
 
-### DOCUMENTATION
+### Documentation
 
 ![](https://github.com/just-carlod/trimax-chat/blob/master/docs/1.png)
 
-### ISSUE TEMPLATE / CONTRIBUTING
+### Issue Template / Contributing
 
-SEE [DOCUMENTATION](#DOCUMENTATION)
+See [Documentation](#documentation)
 
